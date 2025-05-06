@@ -144,7 +144,7 @@ Publish the website in the given URL.
     </div>
 
     <footer>
-        &copy; 2024 designed by ROHITH J [24000942]. All Rights Reserved.
+        &copy;@ 2025 designed by VISHWA V [212224110062]. All Rights Reserved.
     </footer>
 
     <script>
@@ -179,7 +179,7 @@ Publish the website in the given URL.
 ```
 ## OUTPUT:
 
-![Screenshot 2025-05-06 141531](https://github.com/user-attachments/assets/5dfbf56d-bc8a-42b1-87e3-0debeb15bd48)
+![Screenshot 2025-05-06 143446](https://github.com/user-attachments/assets/e88e52d8-8420-42f1-ae9d-0cc258d98a52)
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
